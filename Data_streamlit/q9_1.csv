@@ -1,0 +1,1039 @@
+circuitId,constructorId,avg_lap_time,total_laps,name_circuit,name_constructor
+1,215,84876.47826086957,115,albert park grand prix circuit,rb f1 team
+1,211,90440.78947368421,114,albert park grand prix circuit,racing point
+1,12,93105.31818181818,66,albert park grand prix circuit,spyker
+1,7,95111.01646706587,668,albert park grand prix circuit,toyota
+1,11,96319.96140350877,285,albert park grand prix circuit,honda
+1,2,96355.80516431924,426,albert park grand prix circuit,bmw sauber
+1,4,96358.22803030303,1320,albert park grand prix circuit,renault
+1,16,96512.8009868421,608,albert park grand prix circuit,bar
+1,6,96814.84067663258,2542,albert park grand prix circuit,ferrari
+1,3,97111.2107364685,2254,albert park grand prix circuit,williams
+1,208,97334.62348178138,247,albert park grand prix circuit,lotus f1
+1,15,97427.86930455636,1668,albert park grand prix circuit,sauber
+1,5,97506.45474777448,1348,albert park grand prix circuit,toro rosso
+1,23,97520.47413793103,116,albert park grand prix circuit,brawn
+1,8,98246.73622047243,254,albert park grand prix circuit,super aguri
+1,10,98258.24213536702,1049,albert park grand prix circuit,force india
+1,1,98574.49012010849,2581,albert park grand prix circuit,mclaren
+1,17,98630.98519736843,608,albert park grand prix circuit,jordan
+1,24,98727.53846153847,143,albert park grand prix circuit,stewart
+1,207,98776.0616113744,211,albert park grand prix circuit,caterham
+1,131,98973.60530679933,1206,albert park grand prix circuit,mercedes
+1,27,99116.43362831858,113,albert park grand prix circuit,ligier
+1,9,99218.57054070852,1609,albert park grand prix circuit,red bull
+1,205,99382.70229007634,131,albert park grand prix circuit,lotus
+1,22,99756.91005291005,567,albert park grand prix circuit,benetton
+1,20,99939.98441558442,385,albert park grand prix circuit,prost
+1,29,100170.2957746479,71,albert park grand prix circuit,footwork
+1,210,100654.45860927152,604,albert park grand prix circuit,haas f1 team
+1,214,100812.62463343109,341,albert park grand prix circuit,alpine f1 team
+1,19,101337.227154047,383,albert park grand prix circuit,jaguar
+1,206,101997.76452599389,327,albert park grand prix circuit,marussia
+1,25,102275.01098901099,182,albert park grand prix circuit,tyrrell
+1,18,103428.59059474412,723,albert park grand prix circuit,minardi
+1,13,104466.03157894737,95,albert park grand prix circuit,mf1
+1,21,108020.22950819672,305,albert park grand prix circuit,arrows
+1,164,109263.52631578948,57,albert park grand prix circuit,hrt
+1,166,111844.66470588236,170,albert park grand prix circuit,virgin
+1,209,113358.38356164383,73,albert park grand prix circuit,manor marussia
+1,51,113710.31502890174,346,albert park grand prix circuit,alfa romeo
+1,117,114044.81730769231,312,albert park grand prix circuit,aston martin
+1,213,116968.40174672489,229,albert park grand prix circuit,alphatauri
+2,11,99727.78012048193,332,sepang international circuit,honda
+2,2,100007.37047353761,359,sepang international circuit,bmw sauber
+2,4,101267.14866032843,1157,sepang international circuit,renault
+2,7,101642.95799457995,738,sepang international circuit,toyota
+2,210,101828.0,156,sepang international circuit,haas f1 team
+2,13,101948.63888888889,108,sepang international circuit,mf1
+2,8,102234.9475409836,305,sepang international circuit,super aguri
+2,16,102606.32992327366,391,sepang international circuit,bar
+2,24,103989.48214285714,112,sepang international circuit,stewart
+2,19,106232.19,400,sepang international circuit,jaguar
+2,17,107374.71746575342,584,sepang international circuit,jordan
+2,6,107929.2539083558,1855,sepang international circuit,ferrari
+2,23,108203.29032258065,62,sepang international circuit,brawn
+2,1,108551.71167048055,1748,sepang international circuit,mclaren
+2,166,108602.15894039735,151,sepang international circuit,virgin
+2,12,109255.42857142857,7,sepang international circuit,spyker
+2,3,109397.20432692308,1664,sepang international circuit,williams
+2,21,109831.48660714286,224,sepang international circuit,arrows
+2,18,109970.86236933798,574,sepang international circuit,minardi
+2,209,109989.65030674846,163,sepang international circuit,manor marussia
+2,9,110448.18923076923,1300,sepang international circuit,red bull
+2,15,111237.17940199336,1204,sepang international circuit,sauber
+2,22,111806.6501650165,303,sepang international circuit,benetton
+2,5,112489.76,1125,sepang international circuit,toro rosso
+2,205,112492.67403314917,181,sepang international circuit,lotus
+2,131,114505.95793269231,832,sepang international circuit,mercedes
+2,10,115559.0023557126,849,sepang international circuit,force india
+2,20,116185.97005988024,167,sepang international circuit,prost
+2,208,120903.53731343284,335,sepang international circuit,lotus f1
+2,207,133920.87234042553,329,sepang international circuit,caterham
+2,206,138791.63571428572,280,sepang international circuit,marussia
+2,164,139443.0586080586,273,sepang international circuit,hrt
+3,211,89422.432748538,342,bahrain international circuit,racing point
+3,16,94590.38502673797,187,bahrain international circuit,bar
+3,213,95140.91297208538,609,bahrain international circuit,alphatauri
+3,210,95375.3482428115,939,bahrain international circuit,haas f1 team
+3,19,95392.01785714286,112,bahrain international circuit,jaguar
+3,51,96346.48780487805,738,bahrain international circuit,alfa romeo
+3,7,96825.53755522828,679,bahrain international circuit,toyota
+3,23,96966.16666666667,114,bahrain international circuit,brawn
+3,4,97085.54407294832,1316,bahrain international circuit,renault
+3,17,97426.95238095238,168,bahrain international circuit,jordan
+3,2,97569.92,425,bahrain international circuit,bmw sauber
+3,11,97990.96326530613,245,bahrain international circuit,honda
+3,215,98463.60714285714,112,bahrain international circuit,rb f1 team
+3,13,98466.23636363636,55,bahrain international circuit,mf1
+3,1,98980.67494145199,2135,bahrain international circuit,mclaren
+3,131,99397.66552511415,1752,bahrain international circuit,mercedes
+3,6,100096.308216069,2203,bahrain international circuit,ferrari
+3,3,100296.53413120567,2256,bahrain international circuit,williams
+3,117,100494.73951434878,453,bahrain international circuit,aston martin
+3,9,100866.70662620131,1977,bahrain international circuit,red bull
+3,15,101140.1839708561,1098,bahrain international circuit,sauber
+3,18,101140.28571428571,203,bahrain international circuit,minardi
+3,214,101250.64720194647,411,bahrain international circuit,alpine f1 team
+3,208,102457.8945054945,455,bahrain international circuit,lotus f1
+3,5,102885.40777576853,1106,bahrain international circuit,toro rosso
+3,10,102925.6073674753,1113,bahrain international circuit,force india
+3,8,103212.05263157895,285,bahrain international circuit,super aguri
+3,209,103430.14479638009,221,bahrain international circuit,manor marussia
+3,12,104128.98148148147,108,bahrain international circuit,spyker
+3,207,104199.90415335463,313,bahrain international circuit,caterham
+3,206,105281.28289473684,304,bahrain international circuit,marussia
+3,164,109555.90625,128,bahrain international circuit,hrt
+3,205,128282.09677419355,93,bahrain international circuit,lotus
+3,166,130677.88888888889,18,bahrain international circuit,virgin
+4,215,82372.36923076923,130,circuit de barcelona-catalunya,rb f1 team
+4,214,84725.04571428572,525,circuit de barcelona-catalunya,alpine f1 team
+4,117,84975.37739463602,522,circuit de barcelona-catalunya,aston martin
+4,7,85436.42379182157,807,circuit de barcelona-catalunya,toyota
+4,11,85622.86629526463,359,circuit de barcelona-catalunya,honda
+4,13,85684.53153153154,111,circuit de barcelona-catalunya,mf1
+4,213,85743.2251082251,462,circuit de barcelona-catalunya,alphatauri
+4,211,85791.74166666667,240,circuit de barcelona-catalunya,racing point
+4,16,85991.72626582278,632,circuit de barcelona-catalunya,bar
+4,51,86169.92868719611,617,circuit de barcelona-catalunya,alfa romeo
+4,19,86205.56818181818,396,circuit de barcelona-catalunya,jaguar
+4,2,86451.32341269842,504,circuit de barcelona-catalunya,bmw sauber
+4,4,86814.80820335067,1731,circuit de barcelona-catalunya,renault
+4,6,87481.73920917597,3313,circuit de barcelona-catalunya,ferrari
+4,8,87502.76190476191,273,circuit de barcelona-catalunya,super aguri
+4,210,87578.03199268739,1094,circuit de barcelona-catalunya,haas f1 team
+4,131,87633.50170261067,1762,circuit de barcelona-catalunya,mercedes
+4,9,87694.95959183674,2450,circuit de barcelona-catalunya,red bull
+4,12,87735.43650793651,126,circuit de barcelona-catalunya,spyker
+4,1,87767.52502302732,3257,circuit de barcelona-catalunya,mclaren
+4,20,88107.83,500,circuit de barcelona-catalunya,prost
+4,24,88321.64350453172,331,circuit de barcelona-catalunya,stewart
+4,21,88334.10273972603,438,circuit de barcelona-catalunya,arrows
+4,3,88454.50723379629,3456,circuit de barcelona-catalunya,williams
+4,23,88571.66666666667,132,circuit de barcelona-catalunya,brawn
+4,17,88837.72100656455,914,circuit de barcelona-catalunya,jordan
+4,15,89623.56769699608,2297,circuit de barcelona-catalunya,sauber
+4,18,90132.09801136363,704,circuit de barcelona-catalunya,minardi
+4,5,90770.7048424289,1301,circuit de barcelona-catalunya,toro rosso
+4,22,91512.73136427566,711,circuit de barcelona-catalunya,benetton
+4,10,91738.68104149716,1229,circuit de barcelona-catalunya,force india
+4,208,92609.61659192825,446,circuit de barcelona-catalunya,lotus f1
+4,25,93028.88648648649,185,circuit de barcelona-catalunya,tyrrell
+4,205,93589.10857142857,175,circuit de barcelona-catalunya,lotus
+4,207,94202.20063694268,314,circuit de barcelona-catalunya,caterham
+4,206,94253.78309859155,355,circuit de barcelona-catalunya,marussia
+4,166,94551.244,250,circuit de barcelona-catalunya,virgin
+4,164,96002.41293532339,201,circuit de barcelona-catalunya,hrt
+4,209,96545.27450980392,255,circuit de barcelona-catalunya,manor marussia
+4,29,112671.14893617021,47,circuit de barcelona-catalunya,footwork
+4,27,115339.203125,64,circuit de barcelona-catalunya,ligier
+5,16,88777.5775862069,116,istanbul park,bar
+5,23,90202.9619047619,105,istanbul park,brawn
+5,7,91033.12347826087,575,istanbul park,toyota
+5,2,91555.7852494577,461,istanbul park,bmw sauber
+5,11,91911.38372093023,344,istanbul park,honda
+5,15,92842.34493670886,316,istanbul park,sauber
+5,17,92878.48181818181,110,istanbul park,jordan
+5,5,93148.30427631579,608,istanbul park,toro rosso
+5,10,93454.58083832335,334,istanbul park,force india
+5,1,93518.42581300813,984,istanbul park,mclaren
+5,4,93542.2803030303,924,istanbul park,renault
+5,9,93625.28189300411,972,istanbul park,red bull
+5,13,94699.43478260869,46,istanbul park,mf1
+5,6,94951.89085545723,1017,istanbul park,ferrari
+5,18,95494.82524271845,103,istanbul park,minardi
+5,12,95524.33944954128,109,istanbul park,spyker
+5,3,95581.23953488372,860,istanbul park,williams
+5,214,96223.20175438597,114,istanbul park,alpine f1 team
+5,117,96227.01739130435,115,istanbul park,aston martin
+5,205,96440.47752808989,178,istanbul park,lotus
+5,131,97165.38444924405,463,istanbul park,mercedes
+5,166,97484.7530120482,166,istanbul park,virgin
+5,164,99323.0145631068,206,istanbul park,hrt
+5,8,101569.63483146067,178,istanbul park,super aguri
+5,51,101709.0,182,istanbul park,alfa romeo
+5,213,101758.68558951965,229,istanbul park,alphatauri
+5,210,104513.04629629629,216,istanbul park,haas f1 team
+5,211,106746.6551724138,116,istanbul park,racing point
+6,23,77539.93589743589,156,circuit de monaco,brawn
+6,12,80818.68292682926,123,circuit de monaco,spyker
+6,211,80899.94155844155,154,circuit de monaco,racing point
+6,8,81062.61904761905,273,circuit de monaco,super aguri
+6,13,82023.61437908496,153,circuit de monaco,mf1
+6,7,83709.46812227074,1145,circuit de monaco,toyota
+6,4,83834.5306122449,1813,circuit de monaco,renault
+6,2,84740.11586452763,561,circuit de monaco,bmw sauber
+6,210,84768.57620041753,958,circuit de monaco,haas f1 team
+6,11,85376.2,460,circuit de monaco,honda
+6,19,85418.31890660593,439,circuit de monaco,jaguar
+6,16,85751.42034548945,521,circuit de monaco,bar
+6,21,85840.89455782314,588,circuit de monaco,arrows
+6,5,86603.17504332756,1731,circuit de monaco,toro rosso
+6,6,87347.17900753442,3849,circuit de monaco,ferrari
+6,1,87666.33342618385,3590,circuit de monaco,mclaren
+6,9,87697.10433715221,2444,circuit de monaco,red bull
+6,51,87822.7925170068,588,circuit de monaco,alfa romeo
+6,17,88231.23068552774,919,circuit de monaco,jordan
+6,3,88450.4078034682,3460,circuit de monaco,williams
+6,10,88543.07784810127,1580,circuit de monaco,force india
+6,131,89317.69960861056,2044,circuit de monaco,mercedes
+6,213,90109.37701149426,435,circuit de monaco,alphatauri
+6,18,90826.64558823529,680,circuit de monaco,minardi
+6,207,90884.43161094225,329,circuit de monaco,caterham
+6,15,90910.74242424243,2178,circuit de monaco,sauber
+6,22,91129.46141732283,635,circuit de monaco,benetton
+6,209,91531.1986754967,302,circuit de monaco,manor marussia
+6,20,92627.82352941176,527,circuit de monaco,prost
+6,214,92929.81941747572,515,circuit de monaco,alpine f1 team
+6,206,93058.48951048951,429,circuit de monaco,marussia
+6,208,93308.33245382586,379,circuit de monaco,lotus f1
+6,164,94363.02865329513,349,circuit de monaco,hrt
+6,117,95527.52120141343,566,circuit de monaco,aston martin
+6,205,95671.12635379062,277,circuit de monaco,lotus
+6,166,96635.27333333333,150,circuit de monaco,virgin
+6,27,98240.875,80,circuit de monaco,ligier
+6,24,101272.30711610487,267,circuit de monaco,stewart
+6,25,105078.12267657992,269,circuit de monaco,tyrrell
+6,28,107826.7,60,circuit de monaco,forti
+6,215,112646.13725490196,153,circuit de monaco,rb f1 team
+6,29,125824.66666666667,3,circuit de monaco,footwork
+7,211,78051.52173913043,138,circuit gilles villeneuve,racing point
+7,51,81070.4628297362,417,circuit gilles villeneuve,alfa romeo
+7,208,81461.91348088531,497,circuit gilles villeneuve,lotus f1
+7,209,82279.83397683398,259,circuit gilles villeneuve,manor marussia
+7,213,82426.4375,256,circuit gilles villeneuve,alphatauri
+7,210,82504.97145993414,911,circuit gilles villeneuve,haas f1 team
+7,7,82766.09286523216,883,circuit gilles villeneuve,toyota
+7,206,82801.8488372093,258,circuit gilles villeneuve,marussia
+7,2,83807.79063360882,363,circuit gilles villeneuve,bmw sauber
+7,19,84106.86416861827,427,circuit gilles villeneuve,jaguar
+7,17,84382.9760087241,917,circuit gilles villeneuve,jordan
+7,207,84384.52877697842,278,circuit gilles villeneuve,caterham
+7,11,84953.12068965517,290,circuit gilles villeneuve,honda
+7,117,85080.09047619048,420,circuit gilles villeneuve,aston martin
+7,214,85171.84285714285,420,circuit gilles villeneuve,alpine f1 team
+7,27,85889.57142857143,77,circuit gilles villeneuve,ligier
+7,18,85937.11431226766,1076,circuit gilles villeneuve,minardi
+7,1,86143.44790619766,2985,circuit gilles villeneuve,mclaren
+7,20,86203.53919239905,421,circuit gilles villeneuve,prost
+7,12,86297.42647058824,68,circuit gilles villeneuve,spyker
+7,16,86522.29471890972,587,circuit gilles villeneuve,bar
+7,13,86705.68181818182,66,circuit gilles villeneuve,mf1
+7,22,87374.02669039146,562,circuit gilles villeneuve,benetton
+7,6,87534.7375,3200,circuit gilles villeneuve,ferrari
+7,21,87820.72893772894,546,circuit gilles villeneuve,arrows
+7,25,87936.16915422886,201,circuit gilles villeneuve,tyrrell
+7,29,87944.0,16,circuit gilles villeneuve,footwork
+7,28,88897.10606060606,66,circuit gilles villeneuve,forti
+7,8,88956.89805825242,206,circuit gilles villeneuve,super aguri
+7,3,89124.64372881356,2950,circuit gilles villeneuve,williams
+7,24,89895.6324110672,253,circuit gilles villeneuve,stewart
+7,9,90014.00136798905,2193,circuit gilles villeneuve,red bull
+7,215,91265.85714285714,140,circuit gilles villeneuve,rb f1 team
+7,15,91523.70653685674,2157,circuit gilles villeneuve,sauber
+7,131,91526.54607899256,1747,circuit gilles villeneuve,mercedes
+7,4,93720.50381150382,1443,circuit gilles villeneuve,renault
+7,5,93748.18970013037,1534,circuit gilles villeneuve,toro rosso
+7,10,95149.11906614786,1285,circuit gilles villeneuve,force india
+7,164,152570.82129277565,263,circuit gilles villeneuve,hrt
+7,166,155964.71541501977,253,circuit gilles villeneuve,virgin
+7,205,167952.59903381643,207,circuit gilles villeneuve,lotus
+8,4,78833.61920529802,906,circuit de nevers magny-cours,renault
+8,2,79480.4043062201,418,circuit de nevers magny-cours,bmw sauber
+8,7,79581.78343195266,845,circuit de nevers magny-cours,toyota
+8,9,79855.89300411522,486,circuit de nevers magny-cours,red bull
+8,19,79924.94136807817,614,circuit de nevers magny-cours,jaguar
+8,11,80224.59735973597,303,circuit de nevers magny-cours,honda
+8,5,80233.25903614458,332,circuit de nevers magny-cours,toro rosso
+8,1,80384.3509202454,1630,circuit de nevers magny-cours,mclaren
+8,10,80681.39855072464,138,circuit de nevers magny-cours,force india
+8,12,80748.72916666667,96,circuit de nevers magny-cours,spyker
+8,6,81172.23162445954,1619,circuit de nevers magny-cours,ferrari
+8,3,81341.11327231121,1748,circuit de nevers magny-cours,williams
+8,15,81747.25697379543,1183,circuit de nevers magny-cours,sauber
+8,8,81919.77205882352,136,circuit de nevers magny-cours,super aguri
+8,27,81950.58585858585,99,circuit de nevers magny-cours,ligier
+8,13,82026.87341772152,79,circuit de nevers magny-cours,mf1
+8,16,82600.87147335423,638,circuit de nevers magny-cours,bar
+8,22,83181.02751031637,727,circuit de nevers magny-cours,benetton
+8,25,83317.39607843137,255,circuit de nevers magny-cours,tyrrell
+8,17,83854.21877691644,1161,circuit de nevers magny-cours,jordan
+8,29,84123.65822784811,79,circuit de nevers magny-cours,footwork
+8,18,84470.3418217434,1021,circuit de nevers magny-cours,minardi
+8,28,84881.83870967742,31,circuit de nevers magny-cours,forti
+8,20,86767.51834130782,627,circuit de nevers magny-cours,prost
+8,24,87035.66784452296,283,circuit de nevers magny-cours,stewart
+8,21,88035.23936170213,564,circuit de nevers magny-cours,arrows
+9,23,83550.96666666666,120,silverstone circuit,brawn
+9,12,86590.54794520549,73,silverstone circuit,spyker
+9,2,88530.65494505495,455,silverstone circuit,bmw sauber
+9,13,88836.11111111111,117,silverstone circuit,mf1
+9,7,89344.17341040462,692,silverstone circuit,toyota
+9,16,89517.60258249642,697,silverstone circuit,bar
+9,19,90138.86882129278,526,silverstone circuit,jaguar
+9,11,91545.30960854092,281,silverstone circuit,honda
+9,8,91710.09223300971,206,silverstone circuit,super aguri
+9,17,92384.82709807887,989,silverstone circuit,jordan
+9,20,93991.5925925926,486,silverstone circuit,prost
+9,4,94111.68678526048,1574,silverstone circuit,renault
+9,18,94153.09783989834,787,silverstone circuit,minardi
+9,22,94174.19712230215,695,silverstone circuit,benetton
+9,29,94322.12328767123,73,silverstone circuit,footwork
+9,21,95495.65654205608,428,silverstone circuit,arrows
+9,211,95889.5057915058,259,silverstone circuit,racing point
+9,27,96160.73076923077,78,silverstone circuit,ligier
+9,24,96733.94014084506,284,silverstone circuit,stewart
+9,215,96925.80582524271,103,silverstone circuit,rb f1 team
+9,3,99593.56450534759,2992,silverstone circuit,williams
+9,25,100126.4512195122,246,silverstone circuit,tyrrell
+9,6,100181.42599277978,3047,silverstone circuit,ferrari
+9,15,100269.5248,1875,silverstone circuit,sauber
+9,1,101226.86856587892,3089,silverstone circuit,mclaren
+9,205,103412.99122807017,114,silverstone circuit,lotus
+9,164,104768.16722408027,299,silverstone circuit,hrt
+9,9,104940.55392156863,2040,silverstone circuit,red bull
+9,166,105608.38993710691,159,silverstone circuit,virgin
+9,5,105699.18575293057,1109,silverstone circuit,toro rosso
+9,10,108353.33462282398,1034,silverstone circuit,force india
+9,131,109268.35417996171,1567,silverstone circuit,mercedes
+9,51,112830.85429141717,501,silverstone circuit,alfa romeo
+9,210,113172.55172413793,812,silverstone circuit,haas f1 team
+9,209,118532.921875,128,silverstone circuit,manor marussia
+9,213,121296.30463576158,453,silverstone circuit,alphatauri
+9,117,124132.91584158415,404,silverstone circuit,aston martin
+9,208,126487.5667752443,307,silverstone circuit,lotus f1
+9,206,128451.8306188925,307,silverstone circuit,marussia
+9,214,133711.9798657718,298,silverstone circuit,alpine f1 team
+9,207,139388.4212962963,216,silverstone circuit,caterham
+10,7,79869.1013024602,691,hockenheimring,toyota
+10,13,80794.36641221374,131,hockenheimring,mf1
+10,4,81416.26847918436,1177,hockenheimring,renault
+10,11,82056.8855721393,201,hockenheimring,honda
+10,2,82319.69942196531,173,hockenheimring,bmw sauber
+10,10,82912.22180451128,798,hockenheimring,force india
+10,9,83113.023914969,1129,hockenheimring,red bull
+10,166,83684.95614035087,114,hockenheimring,virgin
+10,209,84203.80769230769,130,hockenheimring,manor marussia
+10,208,84280.22222222222,225,hockenheimring,lotus f1
+10,131,84586.4961928934,788,hockenheimring,mercedes
+10,5,84809.71958762886,970,hockenheimring,toro rosso
+10,164,85198.1761904762,210,hockenheimring,hrt
+10,207,85577.0153256705,261,hockenheimring,caterham
+10,206,85891.9076923077,260,hockenheimring,marussia
+10,8,86786.17948717948,39,hockenheimring,super aguri
+10,6,87568.49604221636,1895,hockenheimring,ferrari
+10,210,88019.93147208123,394,hockenheimring,haas f1 team
+10,19,88294.72590361445,332,hockenheimring,jaguar
+10,16,88520.38837920489,654,hockenheimring,bar
+10,1,88707.79859894922,1713,hockenheimring,mclaren
+10,15,88804.46997206703,1432,hockenheimring,sauber
+10,3,89884.9109589041,1752,hockenheimring,williams
+10,205,90560.77966101695,59,hockenheimring,lotus
+10,17,96794.84624277457,865,hockenheimring,jordan
+10,51,98192.2890625,128,hockenheimring,alfa romeo
+10,18,98231.56334231806,742,hockenheimring,minardi
+10,211,98355.13846153846,65,hockenheimring,racing point
+10,21,106697.40463917526,388,hockenheimring,arrows
+10,22,108685.8659090909,440,hockenheimring,benetton
+10,20,109994.26486486486,370,hockenheimring,prost
+10,24,110447.63694267516,157,hockenheimring,stewart
+10,27,111177.171875,64,hockenheimring,ligier
+10,25,111795.07608695653,184,hockenheimring,tyrrell
+10,29,113708.43181818182,44,hockenheimring,footwork
+11,211,83905.7536231884,276,hungaroring,racing point
+11,17,83909.00559552359,1251,hungaroring,jordan
+11,22,84044.07474226804,776,hungaroring,benetton
+11,19,84076.90973451328,565,hungaroring,jaguar
+11,20,84786.36328125,512,hungaroring,prost
+11,21,84787.09712230216,556,hungaroring,arrows
+11,24,85052.8380952381,315,hungaroring,stewart
+11,16,85197.704,875,hungaroring,bar
+11,27,85205.55844155845,77,hungaroring,ligier
+11,23,85229.25714285714,140,hungaroring,brawn
+11,215,85317.70503597123,139,hungaroring,rb f1 team
+11,12,85445.58333333333,72,hungaroring,spyker
+11,25,85718.76760563381,284,hungaroring,tyrrell
+11,7,86075.47701149425,1044,hungaroring,toyota
+11,6,86090.9766832591,3817,hungaroring,ferrari
+11,4,86190.07722222223,1800,hungaroring,renault
+11,1,86308.32564995979,3731,hungaroring,mclaren
+11,29,86743.90476190476,84,hungaroring,footwork
+11,18,87115.15780730898,1204,hungaroring,minardi
+11,3,87139.91664495962,3839,hungaroring,williams
+11,15,87365.77542548775,2409,hungaroring,sauber
+11,2,87564.09481216458,559,hungaroring,bmw sauber
+11,9,87877.58130601792,2343,hungaroring,red bull
+11,131,88106.45778710015,1907,hungaroring,mercedes
+11,117,88827.43531827515,487,hungaroring,aston martin
+11,210,89086.0081300813,1107,hungaroring,haas f1 team
+11,10,89498.8275862069,1189,hungaroring,force india
+11,11,89607.31315789474,380,hungaroring,honda
+11,5,89733.09878682843,1731,hungaroring,toro rosso
+11,51,90087.49635036496,685,hungaroring,alfa romeo
+11,8,91421.85714285714,175,hungaroring,super aguri
+11,208,91458.0504032258,496,hungaroring,lotus f1
+11,213,92575.99398797595,499,hungaroring,alphatauri
+11,209,92723.8619402985,268,hungaroring,manor marussia
+11,207,92795.64238410596,302,hungaroring,caterham
+11,205,93937.47572815535,206,hungaroring,lotus
+11,214,94225.78328981723,383,hungaroring,alpine f1 team
+11,206,94461.82962962963,405,hungaroring,marussia
+11,164,94584.2435897436,390,hungaroring,hrt
+11,166,94910.6553030303,264,hungaroring,virgin
+11,13,101451.69402985074,134,hungaroring,mf1
+12,23,101206.06140350878,114,valencia street circuit,brawn
+12,2,101632.7850877193,228,valencia street circuit,bmw sauber
+12,7,101916.56140350878,228,valencia street circuit,toyota
+12,11,103066.07142857143,112,valencia street circuit,honda
+12,4,104748.17128463477,397,valencia street circuit,renault
+12,1,104756.98767605633,568,valencia street circuit,mclaren
+12,6,105371.78417266186,556,valencia street circuit,ferrari
+12,9,105494.52060737528,461,valencia street circuit,red bull
+12,5,105736.48461538462,520,valencia street circuit,toro rosso
+12,10,105833.25771324863,551,valencia street circuit,force india
+12,3,106020.17805755396,556,valencia street circuit,williams
+12,131,107920.94428152492,341,valencia street circuit,mercedes
+12,15,108154.35443037975,316,valencia street circuit,sauber
+12,166,109856.40271493213,221,valencia street circuit,virgin
+12,208,110679.14432989691,97,valencia street circuit,lotus f1
+12,205,111026.60818713451,171,valencia street circuit,lotus
+12,164,111251.17272727273,330,valencia street circuit,hrt
+12,207,111261.6052631579,114,valencia street circuit,caterham
+12,206,111459.64912280702,57,valencia street circuit,marussia
+13,215,110519.80681818182,88,circuit de spa-francorchamps,rb f1 team
+13,2,113189.81818181818,264,circuit de spa-francorchamps,bmw sauber
+13,8,113715.20930232559,86,circuit de spa-francorchamps,super aguri
+13,12,113883.68604651163,86,circuit de spa-francorchamps,spyker
+13,11,114747.8439716312,141,circuit de spa-francorchamps,honda
+13,23,115146.72727272728,44,circuit de spa-francorchamps,brawn
+13,214,115303.36466165414,266,circuit de spa-francorchamps,alpine f1 team
+13,117,115361.57894736843,266,circuit de spa-francorchamps,aston martin
+13,211,116187.55681818182,176,circuit de spa-francorchamps,racing point
+13,51,117423.91575091575,273,circuit de spa-francorchamps,alfa romeo
+13,213,117500.44736842105,266,circuit de spa-francorchamps,alphatauri
+13,7,118491.8081632653,490,circuit de spa-francorchamps,toyota
+13,131,118501.39593908629,1182,circuit de spa-francorchamps,mercedes
+13,9,118556.0557122708,1418,circuit de spa-francorchamps,red bull
+13,208,118966.55729166667,192,circuit de spa-francorchamps,lotus f1
+13,5,119078.15367965368,924,circuit de spa-francorchamps,toro rosso
+13,6,119175.8246124031,2064,circuit de spa-francorchamps,ferrari
+13,1,119535.12646894236,1787,circuit de spa-francorchamps,mclaren
+13,4,119747.25707257072,813,circuit de spa-francorchamps,renault
+13,16,119861.29032258065,403,circuit de spa-francorchamps,bar
+13,210,119912.95299145298,702,circuit de spa-francorchamps,haas f1 team
+13,19,120117.90186915887,214,circuit de spa-francorchamps,jaguar
+13,3,120268.02690802349,2044,circuit de spa-francorchamps,williams
+13,10,120581.34628190899,901,circuit de spa-francorchamps,force india
+13,206,121831.93675889328,253,circuit de spa-francorchamps,marussia
+13,207,122123.44198895028,181,circuit de spa-francorchamps,caterham
+13,15,122582.17523167649,1187,circuit de spa-francorchamps,sauber
+13,29,122634.42592592593,54,circuit de spa-francorchamps,footwork
+13,205,123506.71176470588,170,circuit de spa-francorchamps,lotus
+13,22,123566.33248730964,394,circuit de spa-francorchamps,benetton
+13,166,124102.26627218934,169,circuit de spa-francorchamps,virgin
+13,17,126032.26198083068,626,circuit de spa-francorchamps,jordan
+13,164,126915.0289017341,173,circuit de spa-francorchamps,hrt
+13,21,127265.534375,320,circuit de spa-francorchamps,arrows
+13,27,127435.09090909091,22,circuit de spa-francorchamps,ligier
+13,24,127438.62307692308,130,circuit de spa-francorchamps,stewart
+13,25,128089.36144578313,166,circuit de spa-francorchamps,tyrrell
+13,20,129178.48046875,256,circuit de spa-francorchamps,prost
+13,209,130300.8346456693,127,circuit de spa-francorchamps,manor marussia
+13,18,130808.36570247934,484,circuit de spa-francorchamps,minardi
+14,23,86474.32075471699,106,autodromo nazionale di monza,brawn
+14,215,86597.46666666666,60,autodromo nazionale di monza,rb f1 team
+14,17,88528.47663551402,856,autodromo nazionale di monza,jordan
+14,19,88553.04745762712,295,autodromo nazionale di monza,jaguar
+14,6,88616.49612676057,2840,autodromo nazionale di monza,ferrari
+14,117,89217.77900552486,362,autodromo nazionale di monza,aston martin
+14,16,89255.26438569206,643,autodromo nazionale di monza,bar
+14,24,89407.3745318352,267,autodromo nazionale di monza,stewart
+14,14,89506.84210526316,95,autodromo nazionale di monza,spyker mf1
+14,7,89624.27232796486,683,autodromo nazionale di monza,toyota
+14,214,89651.14322916667,384,autodromo nazionale di monza,alpine f1 team
+14,8,90173.65895953757,173,autodromo nazionale di monza,super aguri
+14,27,90268.96296296296,54,autodromo nazionale di monza,ligier
+14,15,90358.76473955352,1747,autodromo nazionale di monza,sauber
+14,10,90398.4650455927,987,autodromo nazionale di monza,force india
+14,1,90475.67680758593,2531,autodromo nazionale di monza,mclaren
+14,5,90636.16279069768,1204,autodromo nazionale di monza,toro rosso
+14,131,90636.3828229028,1502,autodromo nazionale di monza,mercedes
+14,3,90793.0158674189,2836,autodromo nazionale di monza,williams
+14,2,90944.36010362694,386,autodromo nazionale di monza,bmw sauber
+14,208,91019.58805031447,318,autodromo nazionale di monza,lotus f1
+14,9,91086.91392801252,1917,autodromo nazionale di monza,red bull
+14,4,91267.76589595375,1384,autodromo nazionale di monza,renault
+14,25,91425.53846153847,208,autodromo nazionale di monza,tyrrell
+14,210,91524.43650793651,882,autodromo nazionale di monza,haas f1 team
+14,29,91587.375,88,autodromo nazionale di monza,footwork
+14,22,91934.48058252427,412,autodromo nazionale di monza,benetton
+14,11,92057.09148264985,317,autodromo nazionale di monza,honda
+14,12,92209.00961538461,104,autodromo nazionale di monza,spyker
+14,209,92329.13407821229,179,autodromo nazionale di monza,manor marussia
+14,207,92349.25080385852,311,autodromo nazionale di monza,caterham
+14,206,92589.36603773585,265,autodromo nazionale di monza,marussia
+14,21,92989.57342657342,286,autodromo nazionale di monza,arrows
+14,18,93099.70596797671,687,autodromo nazionale di monza,minardi
+14,205,93163.82914572864,199,autodromo nazionale di monza,lotus
+14,166,93195.7908496732,153,autodromo nazionale di monza,virgin
+14,20,94034.94974874372,398,autodromo nazionale di monza,prost
+14,51,96750.72848948375,523,autodromo nazionale di monza,alfa romeo
+14,164,99193.38048780488,205,autodromo nazionale di monza,hrt
+14,213,103204.63396226415,265,autodromo nazionale di monza,alphatauri
+14,211,104383.61611374408,211,autodromo nazionale di monza,racing point
+15,215,100030.5737704918,122,marina bay street circuit,rb f1 team
+15,214,106469.55147058824,272,marina bay street circuit,alpine f1 team
+15,117,110713.3940397351,302,marina bay street circuit,aston martin
+15,51,114528.80555555556,288,marina bay street circuit,alfa romeo
+15,23,114709.40163934426,122,marina bay street circuit,brawn
+15,11,115137.06666666667,75,marina bay street circuit,honda
+15,210,115212.96614583333,768,marina bay street circuit,haas f1 team
+15,6,115333.52386564526,1697,marina bay street circuit,ferrari
+15,7,115370.55364806867,233,marina bay street circuit,toyota
+15,2,115415.76237623762,202,marina bay street circuit,bmw sauber
+15,9,115694.90701754385,1710,marina bay street circuit,red bull
+15,1,116083.83851310177,1641,marina bay street circuit,mclaren
+15,131,116169.04169562196,1439,marina bay street circuit,mercedes
+15,211,116331.213592233,103,marina bay street circuit,racing point
+15,3,117098.61249203313,1569,marina bay street circuit,williams
+15,213,118103.68387096774,155,marina bay street circuit,alphatauri
+15,4,118354.82742316785,846,marina bay street circuit,renault
+15,15,118396.76821192053,1057,marina bay street circuit,sauber
+15,5,118980.90964777948,1306,marina bay street circuit,toro rosso
+15,10,119807.56538461539,1040,marina bay street circuit,force india
+15,209,121048.8270042194,237,marina bay street circuit,manor marussia
+15,208,121438.57456140351,456,marina bay street circuit,lotus f1
+15,206,122051.83753501401,357,marina bay street circuit,marussia
+15,207,122483.48986486487,296,marina bay street circuit,caterham
+15,166,122562.625,176,marina bay street circuit,virgin
+15,205,124240.85863874346,191,marina bay street circuit,lotus
+15,164,124883.56488549618,262,marina bay street circuit,hrt
+16,10,83450.72413793103,29,fuji speedway,force india
+16,4,94704.30223880598,268,fuji speedway,renault
+16,6,94865.74626865672,268,fuji speedway,ferrari
+16,2,95057.5112781955,266,fuji speedway,bmw sauber
+16,5,95171.91902834008,247,fuji speedway,toro rosso
+16,3,95319.45771144278,201,fuji speedway,williams
+16,11,96060.90566037736,265,fuji speedway,honda
+16,1,97411.04188481676,191,fuji speedway,mclaren
+16,9,99550.67597765363,179,fuji speedway,red bull
+16,7,105111.79896907216,194,fuji speedway,toyota
+16,12,109390.18796992481,133,fuji speedway,spyker
+16,8,111842.11764705883,119,fuji speedway,super aguri
+17,19,97713.81818181818,66,shanghai international circuit,jaguar
+17,211,100997.07272727272,110,shanghai international circuit,racing point
+17,51,101183.58181818182,110,shanghai international circuit,alfa romeo
+17,16,102562.66831683168,202,shanghai international circuit,bar
+17,17,102690.04639175258,194,shanghai international circuit,jordan
+17,11,104497.43113772455,334,shanghai international circuit,honda
+17,208,105545.46601941748,412,shanghai international circuit,lotus f1
+17,131,105609.71986123157,1153,shanghai international circuit,mercedes
+17,15,105729.44326923077,1040,shanghai international circuit,sauber
+17,6,105731.2839099396,1821,shanghai international circuit,ferrari
+17,210,105815.70577617329,554,shanghai international circuit,haas f1 team
+17,206,106549.17629179331,329,shanghai international circuit,marussia
+17,9,106867.8238736103,1709,shanghai international circuit,red bull
+17,18,106955.37563451777,197,shanghai international circuit,minardi
+17,1,107000.45775462964,1728,shanghai international circuit,mclaren
+17,4,107217.60108024691,1296,shanghai international circuit,renault
+17,207,107263.67889908257,327,shanghai international circuit,caterham
+17,3,107345.39200444198,1801,shanghai international circuit,williams
+17,5,107500.35075161059,1397,shanghai international circuit,toro rosso
+17,10,108266.45890410959,1022,shanghai international circuit,force india
+17,117,109208.10714285714,112,shanghai international circuit,aston martin
+17,214,109260.20535714286,112,shanghai international circuit,alpine f1 team
+17,8,109672.31213872832,173,shanghai international circuit,super aguri
+17,7,109715.764,500,shanghai international circuit,toyota
+17,209,109841.26605504587,218,shanghai international circuit,manor marussia
+17,2,110452.37264150943,424,shanghai international circuit,bmw sauber
+17,14,111276.06666666667,90,shanghai international circuit,spyker mf1
+17,164,112913.74303405573,323,shanghai international circuit,hrt
+17,12,113073.23376623377,77,shanghai international circuit,spyker
+17,215,113292.94915254238,59,shanghai international circuit,rb f1 team
+17,205,115640.9057591623,191,shanghai international circuit,lotus
+17,166,117252.87931034483,116,shanghai international circuit,virgin
+17,23,127104.00892857143,112,shanghai international circuit,brawn
+18,211,78164.83823529411,136,autódromo josé carlos pace,racing point
+18,23,78595.92253521127,142,autódromo josé carlos pace,brawn
+18,8,78684.11594202899,276,autódromo josé carlos pace,super aguri
+18,2,78795.83267716535,508,autódromo josé carlos pace,bmw sauber
+18,11,79339.4298245614,342,autódromo josé carlos pace,honda
+18,14,79744.61151079136,139,autódromo josé carlos pace,spyker mf1
+18,208,80587.98809523809,420,autódromo josé carlos pace,lotus f1
+18,7,80966.34536702768,831,autódromo josé carlos pace,toyota
+18,205,81546.97826086957,276,autódromo josé carlos pace,lotus
+18,21,82998.02685950413,484,autódromo josé carlos pace,arrows
+18,20,83178.1568627451,459,autódromo josé carlos pace,prost
+18,6,83349.47574992992,3567,autódromo josé carlos pace,ferrari
+18,16,83396.19190404797,667,autódromo josé carlos pace,bar
+18,24,83613.17085427136,199,autódromo josé carlos pace,stewart
+18,4,83687.81453634085,1596,autódromo josé carlos pace,renault
+18,19,84021.60173160174,462,autódromo josé carlos pace,jaguar
+18,17,84415.65789473684,1026,autódromo josé carlos pace,jordan
+18,166,84626.76818181819,220,autódromo josé carlos pace,virgin
+18,18,84723.70197300104,963,autódromo josé carlos pace,minardi
+18,22,84727.48648648648,703,autódromo josé carlos pace,benetton
+18,3,85362.63537190083,3025,autódromo josé carlos pace,williams
+18,1,85411.38661710038,3497,autódromo josé carlos pace,mclaren
+18,5,85613.4961748634,1830,autódromo josé carlos pace,toro rosso
+18,15,85907.79655641141,2207,autódromo josé carlos pace,sauber
+18,207,85976.20599250936,267,autódromo josé carlos pace,caterham
+18,206,85991.49280575539,278,autódromo josé carlos pace,marussia
+18,164,86429.50374064838,401,autódromo josé carlos pace,hrt
+18,9,86584.30570595585,2401,autódromo josé carlos pace,red bull
+18,51,87149.57113402062,485,autódromo josé carlos pace,alfa romeo
+18,10,87519.52353367125,1381,autódromo josé carlos pace,force india
+18,213,88150.663507109,422,autódromo josé carlos pace,alphatauri
+18,25,88299.7094017094,351,autódromo josé carlos pace,tyrrell
+18,131,88366.65434001027,1947,autódromo josé carlos pace,mercedes
+18,12,89361.91111111111,45,autódromo josé carlos pace,spyker
+18,210,91097.78255372946,791,autódromo josé carlos pace,haas f1 team
+18,117,91687.16170212766,470,autódromo josé carlos pace,aston martin
+18,214,93294.40106951872,561,autódromo josé carlos pace,alpine f1 team
+18,27,95408.89928057554,139,autódromo josé carlos pace,ligier
+18,28,101739.55913978495,93,autódromo josé carlos pace,forti
+18,29,102277.51162790698,43,autódromo josé carlos pace,footwork
+18,215,111024.40579710146,138,autódromo josé carlos pace,rb f1 team
+18,209,118861.90217391304,276,autódromo josé carlos pace,manor marussia
+19,6,77132.12785388128,1095,indianapolis motor speedway,ferrari
+19,2,77225.2582781457,151,indianapolis motor speedway,bmw sauber
+19,9,77491.75862068965,145,indianapolis motor speedway,red bull
+19,12,77702.60283687944,141,indianapolis motor speedway,spyker
+19,5,77886.5924170616,211,indianapolis motor speedway,toro rosso
+19,4,78078.66246056782,634,indianapolis motor speedway,renault
+19,1,78454.54451612903,775,indianapolis motor speedway,mclaren
+19,11,78580.16216216216,148,indianapolis motor speedway,honda
+19,17,78775.11894273128,681,indianapolis motor speedway,jordan
+19,3,78898.33736762482,661,indianapolis motor speedway,williams
+19,15,79291.68015414258,519,indianapolis motor speedway,sauber
+19,19,79313.51386321627,541,indianapolis motor speedway,jaguar
+19,20,79319.6,280,indianapolis motor speedway,prost
+19,22,79434.0923076923,260,indianapolis motor speedway,benetton
+19,8,79606.7032967033,91,indianapolis motor speedway,super aguri
+19,7,79990.01115241635,538,indianapolis motor speedway,toyota
+19,16,80034.8690671031,611,indianapolis motor speedway,bar
+19,21,80096.41538461538,195,indianapolis motor speedway,arrows
+19,18,80309.37402190923,639,indianapolis motor speedway,minardi
+19,13,88730.67391304347,46,indianapolis motor speedway,mf1
+20,25,85329.24137931035,348,nürburgring,tyrrell
+20,29,85823.06796116506,103,nürburgring,footwork
+20,22,86112.72741433022,642,nürburgring,benetton
+20,27,86294.36111111111,72,nürburgring,ligier
+20,24,87731.3652173913,345,nürburgring,stewart
+20,20,87811.65344467641,479,nürburgring,prost
+20,21,90362.00667779632,599,nürburgring,arrows
+20,17,91553.3485221675,812,nürburgring,jordan
+20,15,92248.28907435508,1318,nürburgring,sauber
+20,19,92630.16964285714,560,nürburgring,jaguar
+20,3,93267.24305106659,1547,nürburgring,williams
+20,16,93834.98560209424,764,nürburgring,bar
+20,1,94438.87712112347,1709,nürburgring,mclaren
+20,18,94724.48007968128,1004,nürburgring,minardi
+20,6,94879.51679434296,1697,nürburgring,ferrari
+20,211,96232.9,120,nürburgring,racing point
+20,213,96480.3,120,nürburgring,alphatauri
+20,51,96506.60833333334,120,nürburgring,alfa romeo
+20,210,96566.23333333334,120,nürburgring,haas f1 team
+20,23,97122.475,120,nürburgring,brawn
+20,13,99107.17796610169,118,nürburgring,mf1
+20,131,99476.67088607595,316,nürburgring,mercedes
+20,10,99814.48746518105,359,nürburgring,force india
+20,4,100035.27546777547,962,nürburgring,renault
+20,5,100714.74193548386,341,nürburgring,toro rosso
+20,208,101302.16666666667,120,nürburgring,lotus f1
+20,9,102671.35161744023,711,nürburgring,red bull
+20,7,102813.55083459787,659,nürburgring,toyota
+20,166,103104.56140350878,114,nürburgring,virgin
+20,164,103438.97872340426,94,nürburgring,hrt
+20,205,103489.66666666667,114,nürburgring,lotus
+20,206,103569.8875,80,nürburgring,marussia
+20,207,103611.09322033898,118,nürburgring,caterham
+20,2,107771.15598885794,359,nürburgring,bmw sauber
+20,11,110755.81879194631,149,nürburgring,honda
+20,8,123932.84210526316,152,nürburgring,super aguri
+20,12,223770.8,15,nürburgring,spyker
+21,215,83032.42741935483,124,autodromo enzo e dino ferrari,rb f1 team
+21,211,84711.70634920635,126,autodromo enzo e dino ferrari,racing point
+21,4,86269.955453149,651,autodromo enzo e dino ferrari,renault
+21,7,87335.00462962964,432,autodromo enzo e dino ferrari,toyota
+21,16,88145.73247496423,699,autodromo enzo e dino ferrari,bar
+21,3,88268.26616446955,1593,autodromo enzo e dino ferrari,williams
+21,15,88920.19169611308,1132,autodromo enzo e dino ferrari,sauber
+21,11,89116.59677419355,124,autodromo enzo e dino ferrari,honda
+21,19,89197.11048689138,534,autodromo enzo e dino ferrari,jaguar
+21,2,89621.76422764227,123,autodromo enzo e dino ferrari,bmw sauber
+21,6,89704.5751901697,1709,autodromo enzo e dino ferrari,ferrari
+21,5,89785.60655737705,122,autodromo enzo e dino ferrari,toro rosso
+21,1,89897.32670283303,1659,autodromo enzo e dino ferrari,mclaren
+21,17,90327.26621923938,894,autodromo enzo e dino ferrari,jordan
+21,131,90452.56382978724,470,autodromo enzo e dino ferrari,mercedes
+21,9,91370.53780313837,701,autodromo enzo e dino ferrari,red bull
+21,22,91957.37574552684,503,autodromo enzo e dino ferrari,benetton
+21,13,92074.36666666667,60,autodromo enzo e dino ferrari,mf1
+21,21,92495.69882352941,425,autodromo enzo e dino ferrari,arrows
+21,20,92642.68786127168,346,autodromo enzo e dino ferrari,prost
+21,24,92736.58385093168,161,autodromo enzo e dino ferrari,stewart
+21,25,93121.22826086957,276,autodromo enzo e dino ferrari,tyrrell
+21,18,93324.11363636363,704,autodromo enzo e dino ferrari,minardi
+21,27,93331.18103448275,116,autodromo enzo e dino ferrari,ligier
+21,29,93733.78205128205,78,autodromo enzo e dino ferrari,footwork
+21,210,94499.38461538461,481,autodromo enzo e dino ferrari,haas f1 team
+21,117,96863.34491978609,374,autodromo enzo e dino ferrari,aston martin
+21,51,97293.10372340426,376,autodromo enzo e dino ferrari,alfa romeo
+21,28,97808.57627118644,59,autodromo enzo e dino ferrari,forti
+21,214,98964.92767295598,318,autodromo enzo e dino ferrari,alpine f1 team
+21,213,99211.85093167702,322,autodromo enzo e dino ferrari,alphatauri
+21,8,107103.6119402985,67,autodromo enzo e dino ferrari,super aguri
+22,11,96562.84761904762,105,suzuka circuit,honda
+22,211,96701.61764705883,102,suzuka circuit,racing point
+22,2,98311.43867924529,212,suzuka circuit,bmw sauber
+22,14,99066.98591549296,71,suzuka circuit,spyker mf1
+22,7,99136.86307053942,482,suzuka circuit,toyota
+22,4,99707.94491129785,1071,suzuka circuit,renault
+22,8,99794.35294117648,102,suzuka circuit,super aguri
+22,23,100216.99056603774,106,suzuka circuit,brawn
+22,19,100908.09297052154,441,suzuka circuit,jaguar
+22,16,102149.68325791856,663,suzuka circuit,bar
+22,17,103277.01039260969,866,suzuka circuit,jordan
+22,209,103395.44390243903,205,suzuka circuit,manor marussia
+22,6,103404.45749342682,2282,suzuka circuit,ferrari
+22,22,104500.85557586838,547,suzuka circuit,benetton
+22,3,105025.39272559853,2172,suzuka circuit,williams
+22,1,105091.97369502671,2433,suzuka circuit,mclaren
+22,5,105132.47194112235,1087,suzuka circuit,toro rosso
+22,18,105619.0349127182,802,suzuka circuit,minardi
+22,20,105783.42469879518,332,suzuka circuit,prost
+22,205,105785.26315789473,209,suzuka circuit,lotus
+22,21,105861.06631299735,377,suzuka circuit,arrows
+22,10,106039.72057318321,977,suzuka circuit,force india
+22,24,106455.59119496855,159,suzuka circuit,stewart
+22,15,107232.48363009765,1741,suzuka circuit,sauber
+22,25,107469.2568306011,183,suzuka circuit,tyrrell
+22,164,107652.91608391609,286,suzuka circuit,hrt
+22,166,108001.8366013072,153,suzuka circuit,virgin
+22,131,108432.81047381547,1203,suzuka circuit,mercedes
+22,9,108599.91486574983,1527,suzuka circuit,red bull
+22,27,108765.0923076923,65,suzuka circuit,ligier
+22,210,109439.00470219436,638,suzuka circuit,haas f1 team
+22,51,110647.02304147465,217,suzuka circuit,alfa romeo
+22,29,111062.80198019803,101,suzuka circuit,footwork
+22,208,112737.30845771145,402,suzuka circuit,lotus f1
+22,213,115597.51875,160,suzuka circuit,alphatauri
+22,214,121793.56015037594,266,suzuka circuit,alpine f1 team
+22,207,122729.52066115703,242,suzuka circuit,caterham
+22,206,124184.34666666666,225,suzuka circuit,marussia
+22,117,124433.1452991453,234,suzuka circuit,aston martin
+22,215,132022.46153846153,52,suzuka circuit,rb f1 team
+24,215,91830.16071428571,112,yas marina circuit,rb f1 team
+24,117,92263.36796536797,462,yas marina circuit,aston martin
+24,214,92279.6550925926,432,yas marina circuit,alpine f1 team
+24,213,95839.98684210527,456,yas marina circuit,alphatauri
+24,51,98503.18687872763,503,yas marina circuit,alfa romeo
+24,210,101473.1263269639,942,yas marina circuit,haas f1 team
+24,131,102626.38864071474,1567,yas marina circuit,mercedes
+24,23,102982.09090909091,110,yas marina circuit,brawn
+24,7,103177.60909090909,110,yas marina circuit,toyota
+24,2,103284.1909090909,110,yas marina circuit,bmw sauber
+24,9,103380.58725247525,1616,yas marina circuit,red bull
+24,6,103450.52455228192,1731,yas marina circuit,ferrari
+24,1,103840.09337349398,1660,yas marina circuit,mclaren
+24,3,104980.72948328267,1645,yas marina circuit,williams
+24,211,106345.46296296296,162,yas marina circuit,racing point
+24,4,107176.1932885906,745,yas marina circuit,renault
+24,10,108365.73108384458,978,yas marina circuit,force india
+24,15,108699.17294685991,1035,yas marina circuit,sauber
+24,5,109478.81311154598,1022,yas marina circuit,toro rosso
+24,208,111506.24468085106,282,yas marina circuit,lotus f1
+24,209,111648.25821596244,213,yas marina circuit,manor marussia
+24,205,111943.18396226416,212,yas marina circuit,lotus
+24,166,112926.77844311377,167,yas marina circuit,virgin
+24,207,113021.46496815287,314,yas marina circuit,caterham
+24,164,113550.56505576208,269,yas marina circuit,hrt
+24,206,114394.92574257425,202,yas marina circuit,marussia
+25,1,93303.04560260587,307,autódromo juan y oscar gálvez,mclaren
+25,6,93806.7874251497,334,autódromo juan y oscar gálvez,ferrari
+25,22,93917.30048076923,416,autódromo juan y oscar gálvez,benetton
+25,3,94538.18023255814,344,autódromo juan y oscar gálvez,williams
+25,20,94821.79207920792,202,autódromo juan y oscar gálvez,prost
+25,15,95252.05337078651,356,autódromo juan y oscar gálvez,sauber
+25,24,95492.05649717514,177,autódromo juan y oscar gálvez,stewart
+25,17,95536.17966101695,295,autódromo juan y oscar gálvez,jordan
+25,27,96445.47524752475,101,autódromo juan y oscar gálvez,ligier
+25,29,96841.47916666667,96,autódromo juan y oscar gálvez,footwork
+25,18,96975.72756410256,312,autódromo juan y oscar gálvez,minardi
+25,21,97183.73684210527,114,autódromo juan y oscar gálvez,arrows
+25,25,99019.43037974683,316,autódromo juan y oscar gálvez,tyrrell
+25,28,100052.16129032258,93,autódromo juan y oscar gálvez,forti
+26,6,85962.47413793103,116,circuito de jerez,ferrari
+26,1,86066.64492753622,138,circuito de jerez,mclaren
+26,3,86100.59420289854,138,circuito de jerez,williams
+26,22,86827.78832116789,137,circuito de jerez,benetton
+26,21,86882.62068965517,58,circuito de jerez,arrows
+26,20,87107.98550724638,138,circuito de jerez,prost
+26,24,87290.53535353535,99,circuito de jerez,stewart
+26,15,87564.57664233577,137,circuito de jerez,sauber
+26,17,87704.34821428571,112,circuito de jerez,jordan
+26,25,87950.11029411765,136,circuito de jerez,tyrrell
+26,18,88261.75,136,circuito de jerez,minardi
+27,3,86184.25714285714,140,autódromo do estoril,williams
+27,6,87049.88571428572,140,autódromo do estoril,ferrari
+27,22,87100.57142857143,140,autódromo do estoril,benetton
+27,15,88049.46376811594,138,autódromo do estoril,sauber
+27,17,88064.82727272727,110,autódromo do estoril,jordan
+27,25,88674.36496350366,137,autódromo do estoril,tyrrell
+27,1,89021.45833333333,120,autódromo do estoril,mclaren
+27,27,89134.3652173913,115,autódromo do estoril,ligier
+27,29,89563.00877192983,114,autódromo do estoril,footwork
+27,18,93066.02307692308,130,autódromo do estoril,minardi
+32,211,83148.4964539007,141,autódromo hermanos rodríguez,racing point
+32,4,85113.97830802602,461,autódromo hermanos rodríguez,renault
+32,9,85566.67550839964,1131,autódromo hermanos rodríguez,red bull
+32,10,85639.51224105462,531,autódromo hermanos rodríguez,force india
+32,5,85721.81060606061,660,autódromo hermanos rodríguez,toro rosso
+32,6,86408.25953565506,1206,autódromo hermanos rodríguez,ferrari
+32,15,86500.88656716418,670,autódromo hermanos rodríguez,sauber
+32,131,86579.64521193093,1274,autódromo hermanos rodríguez,mercedes
+32,208,87229.21126760563,142,autódromo hermanos rodríguez,lotus f1
+32,210,87253.86169154229,1005,autódromo hermanos rodríguez,haas f1 team
+32,215,87432.37142857142,70,autódromo hermanos rodríguez,rb f1 team
+32,1,87861.75858951175,1106,autódromo hermanos rodríguez,mclaren
+32,3,88021.20454545454,1188,autódromo hermanos rodríguez,williams
+32,209,88904.75845410628,207,autódromo hermanos rodríguez,manor marussia
+32,51,89946.43818181819,550,autódromo hermanos rodríguez,alfa romeo
+32,214,90517.6954954955,555,autódromo hermanos rodríguez,alpine f1 team
+32,117,91969.4570230608,477,autódromo hermanos rodríguez,aston martin
+32,213,93231.81381381382,333,autódromo hermanos rodríguez,alphatauri
+34,211,97955.75,104,circuit paul ricard,racing point
+34,131,100009.9575471698,424,circuit paul ricard,mercedes
+34,9,100189.13947990544,423,circuit paul ricard,red bull
+34,6,100419.75968992247,387,circuit paul ricard,ferrari
+34,5,100493.07051282052,156,circuit paul ricard,toro rosso
+34,4,100767.43333333333,210,circuit paul ricard,renault
+34,51,101065.50324675324,308,circuit paul ricard,alfa romeo
+34,1,101431.00954653938,419,circuit paul ricard,mclaren
+34,214,101831.34597156398,211,circuit paul ricard,alpine f1 team
+34,213,101844.53714285714,175,circuit paul ricard,alphatauri
+34,117,101860.46698113208,212,circuit paul ricard,aston martin
+34,210,102109.85316455696,395,circuit paul ricard,haas f1 team
+34,3,102529.57644110276,399,circuit paul ricard,williams
+34,15,104419.86666666667,105,circuit paul ricard,sauber
+34,10,108266.74074074074,27,circuit paul ricard,force india
+35,208,109388.20909090909,220,korean international circuit,lotus f1
+35,207,111142.3623853211,218,korean international circuit,caterham
+35,206,111485.64516129032,217,korean international circuit,marussia
+35,6,127492.48409090909,440,korean international circuit,ferrari
+35,9,129215.54010695187,374,korean international circuit,red bull
+35,5,129217.36829268292,410,korean international circuit,toro rosso
+35,10,129921.7670886076,395,korean international circuit,force india
+35,3,130090.6843373494,415,korean international circuit,williams
+35,1,130962.13246753247,385,korean international circuit,mclaren
+35,15,131154.31328320803,399,korean international circuit,sauber
+35,131,135301.97411003237,309,korean international circuit,mercedes
+35,164,141594.2669039146,281,korean international circuit,hrt
+35,205,153899.2192513369,187,korean international circuit,lotus
+35,166,158219.74390243902,164,korean international circuit,virgin
+35,4,159461.33536585365,164,korean international circuit,renault
+39,215,77304.58450704225,142,circuit park zandvoort,rb f1 team
+39,15,78073.60714285714,140,circuit park zandvoort,sauber
+39,6,84151.69981583794,543,circuit park zandvoort,ferrari
+39,3,85292.72549019608,510,circuit park zandvoort,williams
+39,51,87400.33333333333,399,circuit park zandvoort,alfa romeo
+39,9,88226.00695652174,575,circuit park zandvoort,red bull
+39,131,88287.94097222222,576,circuit park zandvoort,mercedes
+39,1,88549.9512195122,574,circuit park zandvoort,mclaren
+39,214,88831.27972027972,572,circuit park zandvoort,alpine f1 team
+39,117,89025.62456140351,570,circuit park zandvoort,aston martin
+39,210,90190.72037037037,540,circuit park zandvoort,haas f1 team
+39,213,94844.56613756614,378,circuit park zandvoort,alphatauri
+68,9,91235.05014749263,339,buddh international circuit,red bull
+68,1,91744.05292479109,359,buddh international circuit,mclaren
+68,6,91952.35542168675,332,buddh international circuit,ferrari
+68,208,92062.8,240,buddh international circuit,lotus f1
+68,131,92294.26197183099,355,buddh international circuit,mercedes
+68,10,92543.79888268157,358,buddh international circuit,force india
+68,4,92872.24576271187,118,buddh international circuit,renault
+68,5,92934.91900311527,321,buddh international circuit,toro rosso
+68,3,93246.63311688312,308,buddh international circuit,williams
+68,15,93268.82142857143,252,buddh international circuit,sauber
+68,206,94532.1373390558,233,buddh international circuit,marussia
+68,207,95218.22077922078,154,buddh international circuit,caterham
+68,164,95802.70093457944,214,buddh international circuit,hrt
+68,205,96460.92920353982,113,buddh international circuit,lotus
+68,166,96559.96610169491,59,buddh international circuit,virgin
+69,211,103017.54545454546,110,circuit of the americas,racing point
+69,215,103541.01801801802,111,circuit of the americas,rb f1 team
+69,4,104124.63265306123,392,circuit of the americas,renault
+69,51,104840.16129032258,403,circuit of the americas,alfa romeo
+69,6,105170.12352941177,1190,circuit of the americas,ferrari
+69,117,105214.815920398,402,circuit of the americas,aston martin
+69,131,105388.65295031056,1288,circuit of the americas,mercedes
+69,210,105406.29150823828,789,circuit of the americas,haas f1 team
+69,9,105540.93766011955,1171,circuit of the americas,red bull
+69,214,106181.89037433155,374,circuit of the americas,alpine f1 team
+69,3,106304.28314238953,1222,circuit of the americas,williams
+69,1,106586.77943615257,1206,circuit of the americas,mclaren
+69,213,106743.6301369863,292,circuit of the americas,alphatauri
+69,5,107479.31952662722,845,circuit of the americas,toro rosso
+69,10,107486.17870036101,554,circuit of the americas,force india
+69,15,107680.14758620689,725,circuit of the americas,sauber
+69,207,107903.26363636364,220,circuit of the americas,caterham
+69,164,108027.8425925926,108,circuit of the americas,hrt
+69,206,108277.68348623853,218,circuit of the americas,marussia
+69,208,109307.12219451372,401,circuit of the americas,lotus f1
+69,209,113333.69879518072,166,circuit of the americas,manor marussia
+70,211,72052.35656836462,373,red bull ring,racing point
+70,131,72270.2922990444,1779,red bull ring,mercedes
+70,214,72278.92429022082,634,red bull ring,alpine f1 team
+70,215,72339.78723404255,141,red bull ring,rb f1 team
+70,117,72393.77318116976,701,red bull ring,aston martin
+70,9,72450.99564134495,1606,red bull ring,red bull
+70,210,72516.15233236151,1372,red bull ring,haas f1 team
+70,51,72627.36514522822,964,red bull ring,alfa romeo
+70,213,73379.76554404145,772,red bull ring,alphatauri
+70,6,73470.11783827712,2461,red bull ring,ferrari
+70,10,73716.07183908045,696,red bull ring,force india
+70,1,73823.24833055092,2396,red bull ring,mclaren
+70,5,73828.27786499215,637,red bull ring,toro rosso
+70,4,74088.47587719298,912,red bull ring,renault
+70,3,74588.1942951633,2419,red bull ring,williams
+70,15,75129.19677419355,1550,red bull ring,sauber
+70,16,76060.4,595,red bull ring,bar
+70,20,76511.2752293578,545,red bull ring,prost
+70,22,76666.52340425532,470,red bull ring,benetton
+70,17,76675.10329341318,668,red bull ring,jordan
+70,206,76763.9420289855,138,red bull ring,marussia
+70,19,76895.22273781903,431,red bull ring,jaguar
+70,207,77049.53623188406,138,red bull ring,caterham
+70,209,77071.93301435407,209,red bull ring,manor marussia
+70,24,77218.60726072607,303,red bull ring,stewart
+70,208,77336.63265306123,245,red bull ring,lotus f1
+70,21,77633.7261613692,409,red bull ring,arrows
+70,25,78409.02688172043,186,red bull ring,tyrrell
+70,18,78741.93002915452,686,red bull ring,minardi
+70,7,78944.27777777778,216,red bull ring,toyota
+71,131,104387.5825,800,sochi autodrom,mercedes
+71,117,104661.47619047618,105,sochi autodrom,aston martin
+71,10,104794.65871121718,419,sochi autodrom,force india
+71,214,104886.34285714285,105,sochi autodrom,alpine f1 team
+71,6,105081.04319371728,764,sochi autodrom,ferrari
+71,4,105871.03619909502,442,sochi autodrom,renault
+71,9,105957.88874841972,791,sochi autodrom,red bull
+71,15,106004.35331905782,467,sochi autodrom,sauber
+71,210,106013.90781563126,499,sochi autodrom,haas f1 team
+71,3,106317.05121638924,781,sochi autodrom,williams
+71,1,106346.1144414169,734,sochi autodrom,mclaren
+71,213,106950.19523809524,210,sochi autodrom,alphatauri
+71,211,107034.30817610063,159,sochi autodrom,racing point
+71,51,107119.22857142857,315,sochi autodrom,alfa romeo
+71,5,107630.11706349206,504,sochi autodrom,toro rosso
+71,207,108559.125,72,sochi autodrom,caterham
+71,208,109182.70238095238,168,sochi autodrom,lotus f1
+71,209,112608.71428571429,154,sochi autodrom,manor marussia
+71,206,115919.44444444444,9,sochi autodrom,marussia
+73,211,109863.88235294117,102,baku city circuit,racing point
+73,215,113039.46153846153,65,baku city circuit,rb f1 team
+73,209,113765.07954545454,88,baku city circuit,manor marussia
+73,9,116544.96174863388,732,baku city circuit,red bull
+73,117,117343.704,375,baku city circuit,aston martin
+73,214,118333.4373259053,359,baku city circuit,alpine f1 team
+73,3,121151.43698630137,730,baku city circuit,williams
+73,131,122057.51045510455,813,baku city circuit,mercedes
+73,4,122079.92307692308,273,baku city circuit,renault
+73,5,122116.63829787234,282,baku city circuit,toro rosso
+73,1,122837.06691449814,807,baku city circuit,mclaren
+73,6,123223.14673913043,736,baku city circuit,ferrari
+73,15,123601.9037037037,405,baku city circuit,sauber
+73,210,123673.32161458333,768,baku city circuit,haas f1 team
+73,51,124765.96952908587,361,baku city circuit,alfa romeo
+73,10,128675.07407407407,243,baku city circuit,force india
+73,213,129514.04562737643,263,baku city circuit,alphatauri
+75,4,83366.21538461538,130,autódromo internacional do algarve,renault
+75,131,84074.31818181818,264,autódromo internacional do algarve,mercedes
+75,211,84236.04310344828,116,autódromo internacional do algarve,racing point
+75,9,84700.0380228137,263,autódromo internacional do algarve,red bull
+75,51,85012.58673469388,196,autódromo internacional do algarve,alfa romeo
+75,6,85019.04562737643,263,autódromo internacional do algarve,ferrari
+75,1,85237.7786259542,262,autódromo internacional do algarve,mclaren
+75,213,85717.13076923077,260,autódromo internacional do algarve,alphatauri
+75,3,86346.52325581395,258,autódromo internacional do algarve,williams
+75,210,86664.93023255814,258,autódromo internacional do algarve,haas f1 team
+75,214,86904.53787878787,132,autódromo internacional do algarve,alpine f1 team
+75,117,87384.33846153846,130,autódromo internacional do algarve,aston martin
+76,211,137459.9801980198,101,autodromo internazionale del mugello,racing point
+76,4,141281.18181818182,66,autodromo internazionale del mugello,renault
+76,1,141771.828125,64,autodromo internazionale del mugello,mclaren
+76,3,141791.3076923077,65,autodromo internazionale del mugello,williams
+76,51,141849.625,64,autodromo internazionale del mugello,alfa romeo
+76,131,141991.5254237288,118,autodromo internazionale del mugello,mercedes
+76,9,142086.84745762713,59,autodromo internazionale del mugello,red bull
+76,210,142088.578125,64,autodromo internazionale del mugello,haas f1 team
+76,213,142318.91525423728,59,autodromo internazionale del mugello,alphatauri
+76,6,142444.4745762712,118,autodromo internazionale del mugello,ferrari
+77,215,99110.14285714286,98,jeddah corniche circuit,rb f1 team
+77,15,99379.73469387754,98,jeddah corniche circuit,sauber
+77,210,104306.96323529411,272,jeddah corniche circuit,haas f1 team
+77,9,109516.67582417582,364,jeddah corniche circuit,red bull
+77,6,112363.0975,400,jeddah corniche circuit,ferrari
+77,131,112459.0625,400,jeddah corniche circuit,mercedes
+77,1,113449.55064935065,385,jeddah corniche circuit,mclaren
+77,3,113599.31561461794,301,jeddah corniche circuit,williams
+77,214,116046.11676646706,334,jeddah corniche circuit,alpine f1 team
+77,117,117243.50318471338,314,jeddah corniche circuit,aston martin
+77,51,119725.75704225352,284,jeddah corniche circuit,alfa romeo
+77,213,121414.17269076305,249,jeddah corniche circuit,alphatauri
+78,51,92459.49557522124,226,losail international circuit,alfa romeo
+78,213,92573.47767857143,224,losail international circuit,alphatauri
+78,214,92674.0350877193,285,losail international circuit,alpine f1 team
+78,9,92798.78637770898,323,losail international circuit,red bull
+78,1,93157.71176470588,340,losail international circuit,mclaren
+78,6,93172.89824561404,285,losail international circuit,ferrari
+78,131,93180.68115942029,276,losail international circuit,mercedes
+78,117,93560.21917808219,292,losail international circuit,aston martin
+78,3,94314.03100775194,258,losail international circuit,williams
+78,210,94378.44200626959,319,losail international circuit,haas f1 team
+78,15,96546.04385964913,114,losail international circuit,sauber
+78,215,96968.43859649122,114,losail international circuit,rb f1 team
+79,9,95856.82456140351,342,miami international autodrome,red bull
+79,51,95869.62146892655,177,miami international autodrome,alfa romeo
+79,1,96048.97523219814,323,miami international autodrome,mclaren
+79,6,96106.99122807017,342,miami international autodrome,ferrari
+79,131,96258.92397660819,342,miami international autodrome,mercedes
+79,215,96288.5350877193,114,miami international autodrome,rb f1 team
+79,214,96487.6052631579,342,miami international autodrome,alpine f1 team
+79,15,96509.5350877193,114,miami international autodrome,sauber
+79,117,96548.00884955752,339,miami international autodrome,aston martin
+79,210,96762.54252199414,341,miami international autodrome,haas f1 team
+79,3,96926.22186495177,311,miami international autodrome,williams
+79,213,97041.12962962964,216,miami international autodrome,alphatauri
+80,215,100057.51,100,las vegas strip street circuit,rb f1 team
+80,15,100376.84848484848,99,las vegas strip street circuit,sauber
+80,1,102461.59210526316,152,las vegas strip street circuit,mclaren
+80,131,102978.375,200,las vegas strip street circuit,mercedes
+80,6,102988.045,200,las vegas strip street circuit,ferrari
+80,9,103152.265,200,las vegas strip street circuit,red bull
+80,117,103739.22,200,las vegas strip street circuit,aston martin
+80,210,103992.06666666667,195,las vegas strip street circuit,haas f1 team
+80,3,104708.68571428572,175,las vegas strip street circuit,williams
+80,214,104966.55487804877,164,las vegas strip street circuit,alpine f1 team
+80,51,108320.9,100,las vegas strip street circuit,alfa romeo
+80,213,108497.34375,96,las vegas strip street circuit,alphatauri
