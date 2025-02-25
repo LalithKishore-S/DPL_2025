@@ -51,8 +51,7 @@ analysis_option = st.sidebar.radio(
         "Driver-Specific Track Struggles",
         "Championship Retention Probability",
         "Champion Age Trends",
-        "Hypothetical Driver Transfers(Bonus qn)",
-        "Power BI Dashboard"
+        "Hypothetical Driver Transfers(Bonus qn)"
     ]
 )
 
@@ -255,13 +254,6 @@ def display_hypothetical_transfers():
     st.write("From the probability estimate it is seen that there is a probability of 0.33 for the driver to move from red bull to toro rosso.")
     
 
-
-def view_power_bi_dashboard():
-    pass
-"""
-    st.subheader("📊 Power BI Dashboard")
-    st.markdown("[🔗 Click here to open Power BI Dashboard](your_dashboard_link_here)")"""
-
 # Display results based on selection
 if analysis_option == "Driver & Constructor Performance":
     display_driver_constructor_performance()
@@ -293,5 +285,3 @@ elif analysis_option == "Driver Swap Impact Analysis":
     display_driver_swaps()
 elif analysis_option == "Hypothetical Driver Transfers(Bonus qn)":
     display_hypothetical_transfers()
-elif analysis_option == "Power BI Dashboard":
-    view_power_bi_dashboard()
